@@ -1,0 +1,39 @@
+﻿  esp.cpp
+C:\Users\Andrew\Desktop\rust final\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Andrew\Desktop\rust final\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(52,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(230,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(207,17): warning C4101: 'espas': unreferenced local variable
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(283,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(258,17): warning C4101: 'espas': unreferenced local variable
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(308,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(365,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(365,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(366,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(366,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(393,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(393,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(394,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(394,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(396,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(407,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(410,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(410,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(411,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(411,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(479,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(503,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(503,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(504,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(504,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(509,80): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(519,160): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\esp.cpp(535,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  1078 of 2138 functions (50.4%) were compiled, the rest were copied from previous compilation.
+    698 functions were new in current compilation
+    66 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  rust base.vcxproj -> C:\Users\Andrew\Desktop\rust final\old\x64\Release\h0ok.dll
