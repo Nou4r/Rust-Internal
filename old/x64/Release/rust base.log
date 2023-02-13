@@ -1,0 +1,231 @@
+﻿  aimbot.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\aimbot.cpp(19,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\aimbot.cpp(40,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  esp.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(504,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(549,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(570,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(571,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(584,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(768,17): warning C4101: 'espas': unreferenced local variable
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(853,34): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(873,136): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(819,17): warning C4101: 'espas': unreferenced local variable
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(995,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1006,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1121,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1121,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1122,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1122,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1135,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1142,142): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1158,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1158,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1161,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1165,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1165,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1166,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1166,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1167,146): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1169,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1169,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1170,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1170,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1210,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1245,160): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\esp.cpp(1261,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  classes.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\wrapper.hpp(21,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\wrapper.hpp(21,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\wrapper.hpp(150,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\wrapper.hpp(150,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(103,38): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(396,78): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(948,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3206,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3211,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3216,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3222,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3227,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3232,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3237,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3243,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3248,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3253,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3258,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3751,12): warning C4244: 'initializing': conversion from 't' to 'int', possible loss of data
+          with
+          [
+              t=uintptr_t
+          ]
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3868,10): warning C4244: 'return': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(3887,10): warning C4244: 'return': conversion from 'uintptr_t' to 'int', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5021,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5021,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5021,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5021,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5022,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5022,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5022,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5022,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5023,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5023,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5023,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5023,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5024,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5024,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5024,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5024,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5025,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5025,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5025,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5025,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5026,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5026,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5026,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5026,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5027,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5027,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5027,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5027,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5028,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5028,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5028,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5028,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5029,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5029,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5029,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5029,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5030,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5030,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5030,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5030,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5031,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5031,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5031,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5031,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5032,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5032,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5032,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(5032,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: 'argument': conversion from 'const wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(116): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(116): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  il2cpp.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.cpp(292,12): warning C4101: 'il2cpp_method': unreferenced local variable
+  offsets.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Main.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(65,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(84,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(88,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(92,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(152,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(294,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(327,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(332,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(333,122): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\gui_framework.h(335,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(145,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(270,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(274,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(278,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(282,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(487,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(487,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(488,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(488,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(564,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(564,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(565,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(565,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(568,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(568,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(569,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\performanceui.h(569,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\basemelee.h(37,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shadow\Desktop\old\rust base\basemelee.h(126): message : see reference to function template instantiation 't *get_closest_object_of_class<rust::BaseEntity*>(std::string,int)' being compiled
+          with
+          [
+              t=rust::BaseEntity *
+          ]
+C:\Users\Shadow\Desktop\old\rust base\basemelee.h(95,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Misc.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  sky.cpp
+  math.cpp
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(399,1): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(401,1): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(405,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(407,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(409,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(411,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(425,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(427,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(429,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(431,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(432,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(432,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(495,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shadow\Desktop\old\rust base\utils\math.cpp(500,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  memory.cpp
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Shadow\Desktop\old\rust base\utils\memory.cpp(75,15): warning C4309: '=': truncation of constant value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Shadow\Desktop\old\rust base\game\classes.cpp(1899): warning C4715: 'rust::PlayerWalkMovement::fun': not all control paths return a value
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.cpp(173): warning C4715: 'il2cpp::method': not all control paths return a value
+C:\Users\Shadow\Desktop\old\rust base\game\il2cpp.cpp(217): warning C4715: 'il2cpp::hook_virtual_function': not all control paths return a value
+  All 2222 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  rust base.vcxproj -> C:\Users\Shadow\Desktop\old\x64\Release\h0ok.dll
