@@ -1,0 +1,44 @@
+﻿  Main.cpp
+C:\Users\Andrew\Desktop\rust final\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Andrew\Desktop\rust final\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(65,131): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(84,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(88,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(92,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(152,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(294,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(327,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(332,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(333,122): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\gui_framework.h(335,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(139,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(264,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(268,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(272,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(276,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(477,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(477,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(478,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(478,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(550,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(550,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(551,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(551,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(554,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(554,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(555,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\performanceui.h(555,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\projectileshoot.hpp(145,40): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\projectileshoot.hpp(151,110): warning C4312: 'reinterpret_cast': conversion from 'int' to 'uintptr_t ***' of greater size
+  projectileshoot.hpp
+C:\Users\Andrew\Desktop\rust final\old\rust base\game\il2cpp.hpp(36,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Andrew\Desktop\rust final\old\rust base\game\il2cpp.hpp(36,11): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\Andrew\Desktop\rust final\old\rust base\projectileshoot.hpp(145,40): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Andrew\Desktop\rust final\old\rust base\projectileshoot.hpp(151,110): warning C4312: 'reinterpret_cast': conversion from 'int' to 'uintptr_t ***' of greater size
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  481 of 2412 functions (19.9%) were compiled, the rest were copied from previous compilation.
+    95 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  rust base.vcxproj -> C:\Users\Andrew\Desktop\rust final\old\x64\Release\h0ok.dll
